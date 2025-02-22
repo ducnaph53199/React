@@ -1,0 +1,116 @@
+{
+  "product": [
+    {
+      "id": "90f9",
+      "name": "Dog",
+      "mota": "Dog dog dog",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcWVmo5Iz4uzntpSqxGngyOk1wZ-lWDWCVA&s",
+      "gia": "10000"
+    },
+    {
+      "name": "Chim",
+      "mota": "Bird bird bird ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mimus_polyglottus1_cropped.png",
+      "gia": "10000000",
+      "id": "6c79"
+    },
+    {
+      "id": "aa92",
+      "name": "Khung Long",
+      "mota": "Khung Long bao chua",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Rcm9sTdJGncFa5fjsX6lhxI_LvEynG8Fug&s",
+      "gia": "200000003333"
+    },
+    {
+      "id": "1e38",
+      "name": "Dragon city",
+      "mota": "Rong bao chua hac am ",
+      "image": "https://cdn.arttimes.vn/upload//1-2024/images/2024-01-30/Rong-phuong-dong-va-rong-phuong-Tay-loai-nao-manh-hon-li1-1706599153-325-width1000height715.jpg",
+      "gia": "10000002222"
+    },
+    {
+      "id": "873a",
+      "name": "Sieu nhan dien Quang ",
+      "mota": "Sieu nhan dien Quang pro max ",
+      "image": "https://nld.mediacdn.vn/thumb_w/698/291774122806476800/2022/3/28/ultra2a-1648480524399401547386.jpeg",
+      "gia": "00000001"
+    }
+  ],
+  "user": [
+    {
+      "username": "1",
+      "passwd": "1",
+      "id": "9375"
+    },
+    {
+      "username": "admin1",
+      "passwd": "12345",
+      "id": "2156"
+    },
+    {
+      "id": "1a85",
+      "username": "hihi",
+      "email": "hihi@gmail.com",
+      "pwd": "123456"
+    },
+    {
+      "id": "7bc7",
+      "username": "1",
+      "email": "1",
+      "pwd": "1"
+    },
+    {
+      "id": "e8b9",
+      "username": "2",
+      "email": "2",
+      "pwd": "2"
+    },
+    {
+      "id": "117a",
+      "username": "",
+      "email": "",
+      "pwd": ""
+    },
+    {
+      "id": "46c7",
+      "username": "ducnaph5319",
+      "email": "ducnaph53199@gmail.com",
+      "pwd": "123456"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "Meo 4",
+      "mota": "mota 4",
+      "image": "https://loremflickr.com/640/480/food",
+      "gia": 56,
+      "quantity": 1
+    },
+    {
+      "id": "90f9",
+      "name": "dog",
+      "mota": "Dog dog dog",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcWVmo5Iz4uzntpSqxGngyOk1wZ-lWDWCVA&s",
+      "gia": "10000",
+      "quantity": 1
+    },
+    {
+      "id": "3ffa",
+      "name": "Fish",
+      "mota": "Con ca vang uom",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-jNu30olkne2NlrqyWBuXveORiU_6PcX1w&s",
+      "gia": "200000",
+      "quantity": 1
+    }
+  ],
+  "category": [
+    {
+      "id": "90f9",
+      "title": "Dog",
+      "description": "Dog dog dog",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcWVmo5Iz4uzntpSqxGngyOk1wZ-lWDWCVA&s",
+      "price": 10000
+    }
+  ]
+}
