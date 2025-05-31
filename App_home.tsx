@@ -11,7 +11,7 @@ const SplashScreen = () => {
   return (
     <View style={st.nen}> 
       {/* <LoginScreen /> */}
-      <RegisterScreen />
+      {/* <RegisterScreen /> */}
       {/* <HomeScreen /> */}
       {/* <ContactScreen /> */}
       {/* <FavoriteList /> */}
